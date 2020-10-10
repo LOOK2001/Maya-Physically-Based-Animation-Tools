@@ -1,12 +1,12 @@
 # Maya-Physically-Based-Animation-Tools
 ## Jiggle Deformer
 
-![](resources\JiggleDeformerExample.gif)
+![...](resources/JiggleDeformerExample.gif)
 <br>
 ## Collision Detection
-![](resources\CollisionExample.gif)
+![...](resources/CollisionExample.gif)
 <br>
 
 ## Flocking System
-![](resources\FlockingExample.gif)
+![...](resources/FlockingExample.gif)
 
